@@ -1,4 +1,4 @@
-# Hello,I'm Judith ☺️
+# Hello, I'm Judith 
 
 ## About Me
 After years of specialising in languages, literature and marketing. I am currently learning how to code. 
