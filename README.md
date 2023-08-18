@@ -7,7 +7,7 @@ I have a solid background in languages, literature and marketing, but have been 
 - 👾 1 full-time intensive Coding Bootcamp
 - 👩‍💻 5+ years of experience in Web and Content Management
 - 🎓 1 bachelor's degree and 2.5 master's degrees.
-- 🗣️ 5 languages spoken (Contact me in 🇩🇪 🇬🇧 🇪🇸 🇫🇷 or 🇯🇵)
+- 🗣️ 5 languages (Contact me in 🇩🇪 🇬🇧 🇪🇸 🇫🇷 or 🇯🇵)
 
 ## Technology
 ![Javascript](https://camo.githubusercontent.com/b85dffbd82a08945f5f2833e3a5e958ec894d31cd58ccc6192efe16957c5a5f2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f7374796c653d706c6173746963266c6f676f3d6a617661736372697074)
