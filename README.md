@@ -1,10 +1,10 @@
 # Web Developer. Web Content. Web Specialist. 
 
-I have a solid background in languages, literature and marketing, but have been drawn over to the more techy side.
+I have a solid background in languages, literature and marketing, but have been drawn to the more techy side.
 
 ## Stats
 
-- 👾 1 full-time intensive Coding Bootcamp
+- 👾 1 full-time, intensive Coding Bootcamp
 - 👩‍💻 5+ years of experience in Web and Content Management
 - 🎓 1 bachelor's degree and 2.5 master's degrees.
 - 🗣️ 5 languages (Contact me in 🇩🇪 🇬🇧 🇪🇸 🇫🇷 or 🇯🇵)
